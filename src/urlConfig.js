@@ -1,1 +1,1 @@
-export const api = "http://social-media-app-1.efaraz.xyz/api";
+export const api = "https://social-media-app-1.efaraz.xyz/api";
