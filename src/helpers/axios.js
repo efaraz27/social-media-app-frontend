@@ -6,6 +6,9 @@ const axiosInstance = axios.create({
     // headers:{
     //     'Authorization': ''
     // }
+    headers: {
+        "access-control-allow-origin": "*",
+    }
 });
 
 export default axiosInstance;

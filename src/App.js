@@ -1,4 +1,4 @@
-import { useEffect, React } from "react";
+import React, { useEffect } from "react";
 import axios from "./helpers/axios";
 import Homepage from "./pages/Homepage";
 import { Routes, Route, Router } from "react-router-dom";
